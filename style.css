@@ -170,7 +170,7 @@ nav.sticky .menu-btn{
 /* Those Elements Where We Have Apply Same CSS,
  I'm Selecting Directly 'Section Tag' and 'Class'  */
 section{
-  padding-top: 40px;
+  padding-top: 70px;
 }
 section .content{
   width: 80%;
@@ -214,13 +214,13 @@ section .title span::after{
   width: 45%;
 }
 .about .left img{
-  height: 400px;
-  width: 400px;
+  height: 550px;
+  width: 450px;
   object-fit: cover;
   border-radius: 10px;
 }
 .about-details .right{
-  width: 55%;
+  width: 45%;
 }
 section  .topic{
   color: #0E2431;
